@@ -9,3 +9,4 @@ def math():
     print(int(a/b))
     print(a%b)
     print(a/b)
+    ghjjffg
